@@ -65,6 +65,8 @@ for (char c : string) {
 
 ## 📊 Benchmark Results
 
+![Profile](profiling.png)
+
 ### Configuration:
 
 - **Hardware:** NVIDIA Tesla T4 (16GB GDDR6)
