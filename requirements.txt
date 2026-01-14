@@ -1,0 +1,4 @@
+cudf-cu12
+cupy-cuda12x
+numpy
+pandas
